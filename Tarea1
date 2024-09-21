@@ -1,0 +1,4 @@
+#tara1
+#BUG
+print("Uno, dos, tres...")
+print("... cuatro, cinco, seis.")
