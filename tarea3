@@ -1,0 +1,14 @@
+#PROMEDIO
+#Tarea3
+import math
+
+fst_prac = 16  # First practice
+snd_prac = 13  # Second practice
+trd_prac = 19  # Third practice
+fth_prac = 8   # Fourth practice
+
+prom_prac = (fst_prac + snd_prac + trd_prac + fth_prac) / 4
+prom_redondeado = math.ceil(prom_prac)
+
+# imprimir
+print("El promedio redondeado de las prácticas es:", prom_redondeado)
